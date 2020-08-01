@@ -1,0 +1,153 @@
+body, html {
+    height: 95%;
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: #1d243d;
+    padding: 0;
+    margin: 0;
+    font-size: 14px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+#particles-js {
+	height: 100vh;
+	width: 100%;
+    position: fixed;
+    z-index: -1;
+}
+
+h1 {
+    font-weight: 400;
+    font-size: 1.5rem;
+}
+label {
+    color: #000000;
+    margin: 8px 0px 0px 0px;
+}
+
+span {
+    color: #000000;
+}
+
+a {
+    text-decoration: none;
+    color: #4e73df;
+}
+ul {
+  margin-bottom: 0rem !important;
+}
+a:hover {
+    color: #696969;
+}
+
+.login-contenido {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100%;
+}
+form {
+    top: 100px;
+    position: absolute;
+    border-radius: 9px;
+    background-color: #ffffff;
+    height: 455px;
+    width: 350px;
+}
+
+@media (min-width: 420px)
+{
+  form
+  {
+   width: 420px;
+  }
+}
+
+
+
+input[type=text], input[type=password], input[type=email] {
+    width: 70%;
+    padding: 12px 20px;
+    margin: 8px 0px 20px 35px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 10rem;
+    box-sizing: border-box;
+}
+
+input[type=text]:focus, input[type=password]:focus, input[type=email]:focus {
+    border: 2px solid #4e73df;
+}
+
+input[type=text], input[type=password] {
+    width: 45%;
+    margin: 0px 0px 15px 12px;
+}
+input[type=email] {
+    width: 95%;
+    margin: 0px 0px 15px 10px;
+}
+
+.iniciar-sesion, .btn-cancelar {
+    background-color: #696969;
+    border-radius: 10rem;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+.iniciar-sesion {
+    background-color: #696969;
+    color: white;
+    padding: 14px 20px;
+    margin: 30px 0px 0px 60px;
+    border: none;
+    cursor: pointer;
+    width: 70%;
+}
+
+.iniciar-sesion:hover {
+    background-color: #4e73df;
+}
+
+.btn-cancelar {
+    width: auto;
+    padding: 12px 17px;
+    background-color: #4e73df;
+    border-radius: 10rem;
+}
+
+.img-login {
+    text-align: center;
+    margin: 24px 0 12px 0;
+}
+
+img.foto {
+    width: 30%;
+    border-radius: 50%;
+}
+
+.contenido-form {
+    border-radius: 9px;
+    padding: 16px;
+    background-color: #ffffff;
+}
+
+span.psw {
+    float: right;
+    padding-top: 16px;
+}
+
+@media screen and (max-width: 300px) {
+    span.psw {
+        display: block;
+        float: none;
+    }
+    .btn-cancelar {
+        width: 100%;
+    }
+}
