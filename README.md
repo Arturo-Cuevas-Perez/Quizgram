@@ -3,6 +3,8 @@
 
 Live demo: <a href="https://quizgram.com.mx/">https://quizgram.com.mx/</a>
 
+![landing-page](https://user-images.githubusercontent.com/69091401/89111901-f4d71600-d420-11ea-9478-7d8d7271e9f4.png)
+
 Simplemente, la mejor forma de enseñar
 En la actualidad estamos conectados todo el día desde que nos levantamos hasta que nos acostamos, Quizgram nos permite aprender a través de él en cualquier momento.
 
