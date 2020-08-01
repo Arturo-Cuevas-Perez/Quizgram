@@ -6,6 +6,7 @@ En la actualidad estamos conectados todo el día desde que nos levantamos hasta 
 
 
 Objetivos generales
+
 1.- Fomentar en los alumnos el auto aprendizaje.
 2.- Generar un medio de comunicación para docentes y alumnos fuera de las
 aulas físicas.
@@ -17,6 +18,7 @@ compartidos por este medio.
 6.- Fomentar el uso de la tecnología como medio de comunicación y aprendizaje.
 
 Objetivos específicos
+
 1.- Preparar a los alumnos desde edad temprana a tener una responsabilidad
 por el auto aprendizaje.
 2.- Mostrar las ventajas que puede tener una plataforma virtual de educación.
