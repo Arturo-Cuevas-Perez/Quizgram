@@ -6,13 +6,14 @@ En la actualidad estamos conectados todo el día desde que nos levantamos hasta 
 
 
 Objetivos generales
-
-1.- Fomentar en los alumnos el auto aprendizaje.
+<ul> 
+  <li>1.- Fomentar en los alumnos el auto aprendizaje.</li>
 2.- Generar un medio de comunicación para docentes y alumnos fuera de las aulas físicas.
 3.- Facilitar los procesos de enseñanza y aprendizaje en los estudiantes mediante el uso de la aplicación web.
 4.- Gestionar información para el aprendizaje de los alumnos en menor tiempo.
 5.- Complementar lo aprendido en clase mediante recursos que puedan ser compartidos por este medio.
 6.- Fomentar el uso de la tecnología como medio de comunicación y aprendizaje.
+</ul>
 
 Objetivos específicos
 
