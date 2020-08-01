@@ -1,5 +1,5 @@
-# Quizgram
-<h1>Plataforma E-Learning</h1>
+
+<h1>Quizgram Plataforma E-Learning</h1>
 
 Live demo: <a href="https://quizgram.com.mx/">https://quizgram.com.mx/</a>
 
