@@ -2,6 +2,11 @@
 <h1>Quizgram Plataforma E-Learning</h1>
 
 Live demo: <a href="https://quizgram.com.mx/" target="_blank">https://quizgram.com.mx/</a>
+<p><strong>Usuario docente:</strong> demoquizgram1@gmail.com</p>
+<p><strong>Contraseña docente:</strong> 123</p>
+
+<p><strong>Usuario alumno:</strong> demoquizgram2@gmail.com</p>
+<p><strong>Contraseña alumno:</strong> 123</p>
 
 ![landing-page](https://user-images.githubusercontent.com/69091401/89111901-f4d71600-d420-11ea-9478-7d8d7271e9f4.png)
 
